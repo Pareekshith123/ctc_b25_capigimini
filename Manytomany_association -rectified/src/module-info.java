@@ -1,0 +1,2 @@
+module Manytomany_association {
+}
